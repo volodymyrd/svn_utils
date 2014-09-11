@@ -1,0 +1,7 @@
+/log.roo
+/.classpath
+/.project
+/.settings/*
+/target/*
+/src/main/resources/wsdls/*
+/src/main/resources/META-INF/settings.properties
